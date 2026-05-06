@@ -1,2 +1,36 @@
-# 77903297-stock-market-sentiment-scanner
-Stock Market Sentiment Scanner Telegram Bot — a professional-grade bot for finance investing professionals. Built for production use with comprehensive documentation, instant setup, and regular updates included. Save hours of development time with this ready-to-deploy solution. Includes setup guide, configuration templates, and best practices. One-
+# Stock Market Sentiment Scanner Telegram Bot
+
+
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu6oH5iTbUE9JKbzScZa3k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu6oH5iTbUE9JKbzScZa3k)
+- [Buy on Whop](https://whop.com/stock-market-sentiment-scanner-telegram-bot)
+
